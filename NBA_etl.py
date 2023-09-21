@@ -2,14 +2,13 @@
 import pandas as pd
 import openpyxl
 
-df = pd.read_csv('2023_nba_player_stats.csv')
-df1 = pd.read_csv('players.csv')
-
-
-
 # Data Source:
   # https://www.kaggle.com/datasets/szymonjwiak/nba-active-players-data-images
   #https://www.kaggle.com/datasets/amirhosseinmirzaie/nba-players-stats2023-season
+
+# Extracting data
+df = pd.read_csv('2023_nba_player_stats.csv')
+df1 = pd.read_csv('players.csv')
 
 # Transforming and cleaning
     # Dropping irrelevant columns, Column renaming, Missing value removal
