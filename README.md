@@ -2,7 +2,7 @@
 
 ## Overview
 
-The 2022-2023 NBA season has come to an end and you are a data analyst for The Golden State Warriors. The general manager (GM) has tasked you with creating a data pipeline that extracts end of season data on the whole of the NBA. He also wants to know how the performance of The Golden State Warriors compared the biggest rival team  The Los Angeles Lakers.
+The 2022-2023 NBA season has come to an end and you are a data analyst for The Golden State Warriors. The general manager (GM) has tasked you with creating a data pipeline that extracts end of season data on the whole of the NBA. He also wants to know how the performance of The Golden State Warriors compared to that of there biggest rival team, The Los Angeles Lakers.
 
 ## Goal
 
