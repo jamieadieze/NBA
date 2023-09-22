@@ -6,7 +6,7 @@ The 2022-2023 NBA season has come to an end and you are a data analyst for The G
 
 ## Goal
 
-Create a data pipeline that extracts end of season NBA data, transform this data as you see fit and load the data into a storage facility so the data is readily availbale for analysis via PowerBI.
+Create a data pipeline that extracts end of season NBA data, transform this data as you see fit and load the data into a storage facility so the data is readily available for analysis via PowerBI.
 
 
 ## Brief
